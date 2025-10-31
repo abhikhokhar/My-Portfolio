@@ -14,12 +14,12 @@ About Me:
 A brief overview of my background, education, skills, and experience.
 
 Skills & Abilities: Visual representation of my technical skills.
-![image](<img width="1350" height="606" alt="image" src="https://github.com/user-attachments/assets/9c7cbd88-4ab2-4a4b-ba97-b89d03d0c686" />
-)
+<img width="1350" height="606" alt="image" src="https://github.com/user-attachments/assets/9c7cbd88-4ab2-4a4b-ba97-b89d03d0c686" />
+
 
 Projects: Showcases some of my best projects, with links to live demos and source code.
-![image](<img width="1353" height="601" alt="image" src="https://github.com/user-attachments/assets/61d008a2-2735-46cd-88a3-5d966bcd9d4a" />
-)
+<img width="1353" height="601" alt="image" src="https://github.com/user-attachments/assets/61d008a2-2735-46cd-88a3-5d966bcd9d4a" />
+
 
 Contact Information: Links to my social profiles and contact details.
 ![image](https://github.com/user-attachments/assets/115e0412-e343-4b8c-977b-6847dea4d31f)
